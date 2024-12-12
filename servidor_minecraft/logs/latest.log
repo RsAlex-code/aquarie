@@ -477,3 +477,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 03:26:27.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Emerald Generator'/16273, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-3.50, y=63.00, z=7.50] died: Emerald Generator was killed
 [12Dec2024 03:26:36.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Redstone Generator'/16295, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-4.50, y=63.00, z=8.50] died: Redstone Generator was killed
 [12Dec2024 03:26:42.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Lapis Generator'/16306, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-5.50, y=63.00, z=7.50] died: Lapis Generator was killed
+[12Dec2024 03:27:31.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:27:31.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:27:55.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:27:55.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:27:55.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:27:55.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:28:29.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:28:29.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:28:29.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:04.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:10.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:10.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:10.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:10.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:17.854] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:17.854] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:17.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:29:17.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:30:09.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:30:47.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:31:28.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:14.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:14.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:14.153] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:14.153] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:35.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:35.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:35.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:32:35.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:33:08.956] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:33:34.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Iron Generator'/17421, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-4.50, y=63.00, z=6.50] died: Iron Generator was killed
+[12Dec2024 03:34:08.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:34:08.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:34:08.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:34:08.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:34:44.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexwhis: Set own game mode to Creative Mode]
+[12Dec2024 03:34:49.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexwhis: Set own game mode to Survival Mode]
+[12Dec2024 03:35:43.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:35:43.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:35:43.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:35:43.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:36:48.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 03:36:48.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
