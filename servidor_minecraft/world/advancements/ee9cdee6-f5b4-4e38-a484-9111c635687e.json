@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-12 02:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-12 02:34:28 +0000"
@@ -979,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-12 02:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-12 02:09:31 +0000"
@@ -1184,6 +1196,12 @@
     },
     "done": true
   },
+  "challenges:challenges/plains": {
+    "criteria": {
+      "plains": "2024-12-12 02:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-12 02:09:31 +0000"
@@ -1202,7 +1220,8 @@
       "minecraft:beach": "2024-12-12 01:57:57 +0000",
       "minecraft:swamp": "2024-12-12 02:37:59 +0000",
       "minecraft:jungle": "2024-12-12 02:03:49 +0000",
-      "minecraft:warm_ocean": "2024-12-12 02:01:16 +0000"
+      "minecraft:warm_ocean": "2024-12-12 02:01:16 +0000",
+      "minecraft:plains": "2024-12-12 02:55:31 +0000"
     },
     "done": false
   },

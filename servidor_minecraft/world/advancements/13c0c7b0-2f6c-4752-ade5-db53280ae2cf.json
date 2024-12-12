@@ -29,7 +29,8 @@
       "minecraft:beach": "2024-12-12 01:26:40 +0000",
       "minecraft:swamp": "2024-12-12 02:38:18 +0000",
       "minecraft:jungle": "2024-12-12 01:28:14 +0000",
-      "minecraft:warm_ocean": "2024-12-12 01:29:52 +0000"
+      "minecraft:warm_ocean": "2024-12-12 01:29:52 +0000",
+      "minecraft:plains": "2024-12-12 02:56:23 +0000"
     },
     "done": false
   },
@@ -1273,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-12 02:46:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -1918,6 +1925,12 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-12 02:49:45 +0000"
     },
     "done": true
   },
@@ -4195,6 +4208,12 @@
     },
     "done": true
   },
+  "challenges:challenges/bed": {
+    "criteria": {
+      "red-bed": "2024-12-12 02:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -4663,6 +4682,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-12 02:52:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -4773,7 +4798,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2024-12-12 02:35:00 +0000"
+      "minecraft:skeleton": "2024-12-12 02:49:38 +0000",
+      "minecraft:spider": "2024-12-12 02:35:00 +0000",
+      "minecraft:zombie": "2024-12-12 02:50:06 +0000"
     },
     "done": false
   },
@@ -5500,6 +5527,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/plains": {
+    "criteria": {
+      "plains": "2024-12-12 02:56:23 +0000"
     },
     "done": true
   },
