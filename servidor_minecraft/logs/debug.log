@@ -1441,3 +1441,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 02:35:57.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [12Dec2024 02:36:28.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AcidIslands - WaterBlock 1.20
 [12Dec2024 02:36:28.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AcidIslands - WaterBlock 1.20
+[12Dec2024 02:37:34.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:37:34.303] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:37:34.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:37:40.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:37:40.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:37:40.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:37:40.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:38:26.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:38:26.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:38:26.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:41:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzPayker has made the advancement [Suit Up]
+[12Dec2024 02:41:26.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzPayker has made the advancement [Diamonds!]
+[12Dec2024 02:41:28.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AcidIslands - WaterBlock 1.20
+[12Dec2024 02:41:28.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AcidIslands - WaterBlock 1.20
+[12Dec2024 02:41:54.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Lapis Generator'/6654, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-1.50, y=62.00, z=-131.50] died: Lapis Generator was killed
+[12Dec2024 02:42:03.751] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:42:03.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:42:03.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:42:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexwhis has made the advancement [Diamonds!]
+[12Dec2024 02:42:38.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:42:38.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:43:39.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:43:43.053] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:43:45.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:43:58.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:43:58.402] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:43:58.402] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:43:59.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Emerald Generator'/7054, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-4.50, y=63.00, z=7.50] died: Emerald Generator was killed
+[12Dec2024 02:44:01.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Lapis Generator'/7063, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-2.50, y=63.00, z=7.50] died: Lapis Generator was killed
+[12Dec2024 02:44:09.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Gold Generator'/7081, l='ServerLevel[AcidIslands - WaterBlock 1.20]', x=-5.50, y=63.00, z=8.50] died: Gold Generator was killed
+[12Dec2024 02:44:11.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:44:11.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:44:11.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:44:11.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:44:42.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:44:42.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:44:42.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:46:07.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:46:07.854] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:46:07.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:46:07.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[12Dec2024 02:46:28.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AcidIslands - WaterBlock 1.20
+[12Dec2024 02:46:28.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AcidIslands - WaterBlock 1.20
