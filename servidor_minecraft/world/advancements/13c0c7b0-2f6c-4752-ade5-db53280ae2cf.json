@@ -2722,6 +2722,12 @@
     },
     "done": true
   },
+  "challenges:challenges/carrot": {
+    "criteria": {
+      "carrot": "2024-12-12 03:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -2881,6 +2887,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/kill-cave": {
+    "criteria": {
+      "cave": "2024-12-12 03:20:20 +0000"
     },
     "done": true
   },
@@ -4809,6 +4821,7 @@
       "minecraft:skeleton": "2024-12-12 02:49:38 +0000",
       "minecraft:spider": "2024-12-12 02:35:00 +0000",
       "minecraft:creeper": "2024-12-12 03:13:32 +0000",
+      "minecraft:cave_spider": "2024-12-12 03:17:21 +0000",
       "minecraft:zombie": "2024-12-12 02:50:06 +0000"
     },
     "done": false
@@ -5200,6 +5213,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/kill-skeleton": {
+    "criteria": {
+      "skeleton": "2024-12-12 03:20:31 +0000"
     },
     "done": true
   },
@@ -6215,6 +6234,7 @@
     "criteria": {
       "cooked_beef": "2024-12-12 02:46:20 +0000",
       "apple": "2024-12-12 03:15:43 +0000",
+      "potato": "2024-12-12 03:19:17 +0000",
       "glow_berries": "2024-12-12 02:06:59 +0000",
       "beetroot": "2024-12-12 02:05:59 +0000",
       "mushroom_stew": "2024-12-12 02:11:10 +0000"

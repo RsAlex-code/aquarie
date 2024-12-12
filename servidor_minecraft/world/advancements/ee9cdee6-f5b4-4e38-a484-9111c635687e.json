@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-12 03:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-12 02:06:46 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-12 03:25:18 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-12 01:59:14 +0000"
@@ -206,6 +218,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2024-12-12 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-12 03:25:18 +0000"
     },
     "done": true
   },
@@ -380,6 +398,12 @@
   "challenges:challenges/cherry": {
     "criteria": {
       "cherry": "2024-12-12 02:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-12 03:18:14 +0000"
     },
     "done": true
   },
@@ -597,6 +621,12 @@
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2024-12-12 01:59:14 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/kill-cave": {
+    "criteria": {
+      "cave": "2024-12-12 03:21:49 +0000"
     },
     "done": true
   },
@@ -1258,6 +1288,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-12 03:02:28 +0000",
+      "minecraft:spider": "2024-12-12 03:18:13 +0000",
       "minecraft:creeper": "2024-12-12 03:01:56 +0000",
       "minecraft:cave_spider": "2024-12-12 03:12:02 +0000",
       "minecraft:zombie": "2024-12-12 03:01:23 +0000",
@@ -1597,7 +1628,8 @@
       "cooked_cod": "2024-12-12 02:11:37 +0000",
       "glow_berries": "2024-12-12 02:09:13 +0000",
       "mushroom_stew": "2024-12-12 02:20:19 +0000",
-      "cod": "2024-12-12 02:04:08 +0000"
+      "cod": "2024-12-12 02:04:08 +0000",
+      "carrot": "2024-12-12 03:17:33 +0000"
     },
     "done": false
   },
@@ -1688,6 +1720,12 @@
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2024-12-12 02:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-12 03:18:29 +0000"
     },
     "done": true
   },
@@ -1821,6 +1859,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-12 02:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-12 03:18:29 +0000"
     },
     "done": true
   },
@@ -2049,6 +2093,12 @@
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2024-12-12 02:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-12 03:25:14 +0000"
     },
     "done": true
   },
