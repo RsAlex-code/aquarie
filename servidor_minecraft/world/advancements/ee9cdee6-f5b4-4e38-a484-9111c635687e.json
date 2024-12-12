@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-12 03:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-12 02:55:46 +0000"
@@ -666,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-12 03:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-12 02:41:26 +0000"
@@ -728,6 +740,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-12-12 02:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-12 03:05:11 +0000"
     },
     "done": true
   },
@@ -942,6 +960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-12 02:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-12 02:45:48 +0000"
@@ -1063,6 +1087,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-12 03:02:28 +0000",
+      "minecraft:creeper": "2024-12-12 03:01:56 +0000",
+      "minecraft:zombie": "2024-12-12 03:01:23 +0000",
+      "minecraft:zombie_villager": "2024-12-12 03:00:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-12 02:44:34 +0000"
@@ -1165,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-12 03:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-12 02:25:05 +0000"
@@ -1187,6 +1226,12 @@
     "criteria": {
       "has_alt_items": "2024-12-12 01:59:14 +0000",
       "has_items": "2024-12-12 01:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2024-12-12 03:00:17 +0000"
     },
     "done": true
   },
@@ -1219,6 +1264,7 @@
       "minecraft:cherry_grove": "2024-12-12 02:40:51 +0000",
       "minecraft:beach": "2024-12-12 01:57:57 +0000",
       "minecraft:swamp": "2024-12-12 02:37:59 +0000",
+      "minecraft:lush_caves": "2024-12-12 02:59:55 +0000",
       "minecraft:jungle": "2024-12-12 02:03:49 +0000",
       "minecraft:warm_ocean": "2024-12-12 02:01:16 +0000",
       "minecraft:plains": "2024-12-12 02:55:31 +0000"
@@ -1339,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-12 03:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2024-12-12 02:20:17 +0000"
@@ -1391,6 +1443,12 @@
     },
     "done": true
   },
+  "challenges:challenges/twd": {
+    "criteria": {
+      "twd": "2024-12-12 03:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-12 02:44:34 +0000"
@@ -1412,6 +1470,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-12 02:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-12 03:01:56 +0000"
     },
     "done": true
   },
@@ -1671,6 +1735,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-12 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-12-12 03:05:11 +0000"
     },
     "done": true
   },

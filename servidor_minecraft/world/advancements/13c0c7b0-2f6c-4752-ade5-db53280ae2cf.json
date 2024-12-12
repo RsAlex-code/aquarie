@@ -28,6 +28,7 @@
       "minecraft:cherry_grove": "2024-12-12 02:40:56 +0000",
       "minecraft:beach": "2024-12-12 01:26:40 +0000",
       "minecraft:swamp": "2024-12-12 02:38:18 +0000",
+      "minecraft:lush_caves": "2024-12-12 02:59:57 +0000",
       "minecraft:jungle": "2024-12-12 01:28:14 +0000",
       "minecraft:warm_ocean": "2024-12-12 01:29:52 +0000",
       "minecraft:plains": "2024-12-12 02:56:23 +0000"
@@ -6298,6 +6299,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/twd": {
+    "criteria": {
+      "twd": "2024-12-12 03:03:31 +0000"
     },
     "done": true
   },
