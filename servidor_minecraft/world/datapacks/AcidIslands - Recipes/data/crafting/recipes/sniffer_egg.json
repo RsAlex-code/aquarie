@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:moss_block"
+        },
+        {
+            "item": "minecraft:wheat_seeds"
+        },
+        {
+            "item": "minecraft:turtle_egg"
+        },
+        {
+            "item": "minecraft:wheat_seeds"
+        },
+        {
+            "item": "minecraft:moss_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:sniffer_egg",
+        "count": 1
+    }
+}

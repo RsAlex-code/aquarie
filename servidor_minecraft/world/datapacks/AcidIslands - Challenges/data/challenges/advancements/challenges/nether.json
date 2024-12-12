@@ -1,0 +1,33 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Hell",
+            "color": "red",
+            "bold": true
+        },
+        "description": {
+            "text": "Go to the Nether!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:netherrack"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/diamond-tools",
+    "criteria": {
+        "nether": {"trigger": "minecraft:impossible"}
+    },
+    "requirements": [
+        [
+            "nether"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:nether"
+    }
+}

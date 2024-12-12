@@ -1,0 +1,9 @@
+scoreboard objectives add killed_witches minecraft.killed:minecraft.witch
+scoreboard objectives add killed_zombies minecraft.killed:minecraft.zombie
+scoreboard objectives add killed_skeletons minecraft.killed:minecraft.skeleton
+scoreboard objectives add killed_spiders minecraft.killed:minecraft.spider
+scoreboard objectives add killed_creepers minecraft.killed:minecraft.creeper
+scoreboard objectives add killed_drowners minecraft.killed:minecraft.drowned
+scoreboard objectives add killed_cave_spiders minecraft.killed:minecraft.cave_spider
+scoreboard objectives add killed_blazes minecraft.killed:minecraft.blaze
+scoreboard objectives add killed_wither minecraft.killed:minecraft.wither

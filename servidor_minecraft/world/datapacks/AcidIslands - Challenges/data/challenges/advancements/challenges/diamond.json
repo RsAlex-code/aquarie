@@ -1,0 +1,42 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Diamond",
+            "color": "yellow",
+            "bold": true
+        },
+        "description": {
+            "text": "Mine or find a diamond!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:diamond"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/stack-iron",
+    "criteria": {
+        "diam": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:diamond"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "diam"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:diamond"
+    }
+}

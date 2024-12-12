@@ -1,0 +1,48 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Tower on the Ocean",
+            "color": "red",
+            "bold": true
+        },
+        "description": {
+            "text": "Enter the Tower!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:cobblestone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/ancient-cave",
+    "criteria": {
+        "tower": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"location": {
+								"biome": "minecraft:savanna"
+							}
+						}
+					}
+				]
+			}
+        }
+    },
+    "requirements": [
+        [
+            "tower"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:tower"
+    }
+}

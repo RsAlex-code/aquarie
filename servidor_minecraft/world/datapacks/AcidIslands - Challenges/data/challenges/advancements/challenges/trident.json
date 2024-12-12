@@ -1,0 +1,42 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Poseidon's trident",
+            "color": "#800080",
+            "bold": true
+        },
+        "description": {
+            "text": "Get trident!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:trident"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/diamond-tools",
+    "criteria": {
+        "tri": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:trident"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "tri"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:trident"
+    }
+}

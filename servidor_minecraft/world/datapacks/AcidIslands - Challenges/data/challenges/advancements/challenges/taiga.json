@@ -1,0 +1,48 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Taiga Island",
+            "color": "green",
+            "bold": true
+        },
+        "description": {
+            "text": "Go to Taiga Island!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:spruce_sapling"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/begining",
+    "criteria": {
+        "taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"location": {
+								"biome": "minecraft:taiga"
+							}
+						}
+					}
+				]
+			}
+        }
+    },
+    "requirements": [
+        [
+            "taiga"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:taiga"
+    }
+}

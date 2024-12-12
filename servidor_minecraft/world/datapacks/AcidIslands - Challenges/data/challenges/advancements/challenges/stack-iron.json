@@ -1,0 +1,48 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Iron Ingots",
+            "color": "yellow",
+            "bold": true
+        },
+        "description": {
+            "text": "Have in inventory 16 iron ingots!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:iron_ingot"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/coal",
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:iron_ingot"
+                        ],
+                        "count": {
+                            "min": 16,
+                            "max": 128
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "iron"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:iron"
+    }
+}

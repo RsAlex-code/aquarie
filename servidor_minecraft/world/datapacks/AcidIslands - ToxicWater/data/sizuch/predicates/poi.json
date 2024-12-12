@@ -1,0 +1,23 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "effects": {
+        "minecraft:wither": {
+          "duration": {
+            "min": 3
+          }
+        },
+        "minecraft:slowness": {
+            "duration": {
+              "min": 3
+            }
+        },
+        "minecraft:mining_fatigue": {
+            "duration": {
+              "min": 3
+            }
+        }
+      }
+    }
+  }

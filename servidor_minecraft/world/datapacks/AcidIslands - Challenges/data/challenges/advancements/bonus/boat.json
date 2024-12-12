@@ -1,0 +1,123 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Boat!",
+            "color": "gold",
+            "bold": true
+        },
+        "description": {
+            "text": "Find a boat!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:oak_boat"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+        
+    },
+    "parent": "challenges:bonus/root",
+    "criteria": {
+        "oak": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:oak_boat"]
+                    }
+                ]
+            }
+        },
+        "birch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:birch_boat"]
+                    }
+                ]
+            }
+        },
+        "spruce": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:spruce_boat"]
+                    }
+                ]
+            }
+        },
+        "jungle": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:jungle_boat"]
+                    }
+                ]
+            }
+        },
+        "acacia": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:acacia_boat"]
+                    }
+                ]
+            }
+        },
+        "mangrove": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:mangrove_boat"]
+                    }
+                ]
+            }
+        },
+        "dark_oak": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:dark_oak_boat"]
+                    }
+                ]
+            }
+        },
+        "cherry": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:cherry_boat"]
+                    }
+                ]
+            }
+        },
+        "bamboo": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:bamboo_raft"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "oak", "birch", "spruce", "dark_oak", "jungle", "acacia", "mangrove", "cherry", "bamboo"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:boat"
+    }
+}

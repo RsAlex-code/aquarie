@@ -1,0 +1,132 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Ore Generator",
+            "color": "green",
+            "bold": true
+        },
+        "description": {
+            "text": "Get Ore Generator!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:spawner"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/trades",
+    "criteria": {
+        "bat": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:bat_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "guard": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:guardian_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "ghast": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:ghast_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "bla": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:blaze_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "moo": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:mooshroom_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "warden": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:warden_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "allay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:allay_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "slime": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:slime_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "eguard": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:elder_guardian_spawn_egg"]
+                    }
+                ]
+            }
+        },
+        "withskele": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:wither_skeleton_spawn_egg"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "bat","guard","ghast","bla","moo","warden","allay","slime","eguard","withskele"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:gen"
+    }
+}

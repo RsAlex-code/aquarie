@@ -1,0 +1,42 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Cod in bucket?",
+            "color": "yellow",
+            "bold": true
+        },
+        "description": {
+            "text": "Catch cod to bucket!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:cod_bucket"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/salmon-bucket",
+    "criteria": {
+        "cod-bucket": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:cod_bucket"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "cod-bucket"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:cod-bucket"
+    }
+}

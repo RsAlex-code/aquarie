@@ -1,0 +1,12 @@
+{
+	"__comment":"/execute as @a at @s if block ~ ~-0.5 ~ jungle_slab[waterlogged=true] run say a",
+	"values":[
+		
+		"minecraft:water",
+		"minecraft:sea_pickle",
+		"minecraft:kelp",
+		"minecraft:seagrass",
+		"minecraft:lily_pad",
+		"#minecraft:coral_plants"
+	]
+}

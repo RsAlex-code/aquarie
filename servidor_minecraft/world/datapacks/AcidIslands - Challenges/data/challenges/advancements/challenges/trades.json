@@ -1,0 +1,34 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "TRADES",
+            "color": "green",
+            "bold": true
+        },
+        "description": {
+            "text": "Trade with villager!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:emerald"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+        
+    },
+    "parent": "challenges:challenges/begining",
+    "criteria": {
+        "trades": {"trigger": "minecraft:impossible"}
+    },
+    "requirements": [
+        [
+            "trades"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:trades"
+    }
+}

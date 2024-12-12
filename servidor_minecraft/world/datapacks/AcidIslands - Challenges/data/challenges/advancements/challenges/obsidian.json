@@ -1,0 +1,42 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Obsidian",
+            "color": "yellow",
+            "bold": true
+        },
+        "description": {
+            "text": "Get obsidian!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:obsidian"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/diamond",
+    "criteria": {
+        "obs": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:obsidian"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "obs"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:obsidian"
+    }
+}

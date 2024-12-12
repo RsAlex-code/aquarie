@@ -1,0 +1,42 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Nemo in bucket?",
+            "color": "yellow",
+            "bold": true
+        },
+        "description": {
+            "text": "Catch tropical fish to bucket!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:tropical_fish_bucket"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/cod-bucket",
+    "criteria": {
+        "trop-bucket": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:tropical_fish_bucket"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "trop-bucket"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:trop-bucket"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Tools",
+            "color": "aqua",
+            "bold": true
+        },
+        "description": {
+            "text": "Craft stone tools!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/root",
+    "criteria": {
+        "tools": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:stone_sword"]
+                    },
+                    {
+                        "items": ["minecraft:stone_pickaxe"]
+                    },
+                    {
+                        "items": ["minecraft:stone_axe"]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "tools"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:tools"
+    }
+}

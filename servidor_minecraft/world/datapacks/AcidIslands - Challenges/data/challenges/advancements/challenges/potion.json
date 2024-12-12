@@ -1,0 +1,40 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Antidote",
+            "color": "green",
+            "bold": true
+        },
+        "description": {
+            "text": "Drink water brathing potion!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:potion"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/ore-gen",
+    "criteria": {
+        "potion": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:water_breathing": {}
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "potion"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:potion"
+    }
+}

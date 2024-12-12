@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "AWA",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass"
+        },
+        "A": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:ice",
+        "count": 1
+    }
+}

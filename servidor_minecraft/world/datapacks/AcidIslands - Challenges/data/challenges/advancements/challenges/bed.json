@@ -1,0 +1,208 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Place to sleep",
+            "color": "green",
+            "bold": true
+        },
+        "description": {
+            "text": "Find or craft a bed!",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:red_bed"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "challenges:challenges/floating-house",
+    "criteria": {
+        "red-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:red_bed"]
+                    }
+                ]
+            }
+        },
+        "white-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:white_bed"]
+                    }
+                ]
+            }
+        },
+        "light-gray-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:light_gray_bed"]
+                    }
+                ]
+            }
+        },
+        "gray-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:gray_bed"]
+                    }
+                ]
+            }
+        },
+        "black-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:black_bed"]
+                    }
+                ]
+            }
+        },
+        "brown-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:brown_bed"]
+                    }
+                ]
+            }
+        },
+        "orange-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:orange_bed"]
+                    }
+                ]
+            }
+        },
+        "yellow-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:yellow_bed"]
+                    }
+                ]
+            }
+        },
+        "lime-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:lime_bed"]
+                    }
+                ]
+            }
+        },
+        "green-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:green_bed"]
+                    }
+                ]
+            }
+        },
+        "light-blue-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:light_blue_bed"]
+                    }
+                ]
+            }
+        },
+        "cyan-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:cyan_bed"]
+                    }
+                ]
+            }
+        },
+        "blue-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:blue_bed"]
+                    }
+                ]
+            }
+        },
+        "purple-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:purple_bed"]
+                    }
+                ]
+            }
+        },
+        "magenta-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:magenta_bed"]
+                    }
+                ]
+            }
+        },
+        "pink-bed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:pink_bed"]
+                    }
+                ]
+            }
+        }
+        
+    },
+    "requirements": [
+        [
+            "red-bed",
+            "white-bed",
+            "light-gray-bed",
+            "gray-bed",
+            "black-bed",
+            "brown-bed",
+            "orange-bed",
+            "yellow-bed",
+            "lime-bed",
+            "green-bed",
+            "cyan-bed",
+            "light-blue-bed",
+            "blue-bed",
+            "purple-bed",
+            "magenta-bed",
+            "pink-bed"
+        ]
+    ],
+    "rewards": {
+        "function": "challenges:bed"
+    }
+}
