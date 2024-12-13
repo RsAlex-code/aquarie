@@ -583,6 +583,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-12 02:01:27 +0000",
+      "apple": "2024-12-13 22:02:02 +0000",
       "cooked_cod": "2024-12-12 02:11:37 +0000",
       "rotten_flesh": "2024-12-12 03:48:36 +0000",
       "glow_berries": "2024-12-12 02:09:13 +0000",
@@ -7789,6 +7790,18 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2024-12-13 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-13 22:04:24 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/kill-skeleton": {
+    "criteria": {
+      "skeleton": "2024-12-13 22:07:26 +0000"
     },
     "done": true
   },
