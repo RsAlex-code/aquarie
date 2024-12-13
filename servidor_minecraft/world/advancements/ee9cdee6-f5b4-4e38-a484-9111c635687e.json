@@ -588,6 +588,7 @@
       "cooked_beef": "2024-12-12 02:01:27 +0000",
       "apple": "2024-12-13 22:02:02 +0000",
       "cooked_cod": "2024-12-12 02:11:37 +0000",
+      "bread": "2024-12-13 23:05:38 +0000",
       "rotten_flesh": "2024-12-12 03:48:36 +0000",
       "glow_berries": "2024-12-12 02:09:13 +0000",
       "dried_kelp": "2024-12-13 21:57:08 +0000",
@@ -1788,6 +1789,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-13 23:02:36 +0000",
       "minecraft:skeleton": "2024-12-12 03:02:28 +0000",
       "minecraft:spider": "2024-12-12 03:18:13 +0000",
       "minecraft:creeper": "2024-12-12 03:01:56 +0000",
@@ -7822,9 +7824,21 @@
     },
     "done": true
   },
+  "challenges:challenges/trades": {
+    "criteria": {
+      "trades": "2024-12-13 23:06:39 +0000"
+    },
+    "done": true
+  },
   "challenges:challenges/pillager": {
     "criteria": {
       "sunflo": "2024-12-13 22:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-13 23:06:39 +0000"
     },
     "done": true
   },

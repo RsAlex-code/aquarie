@@ -7617,9 +7617,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-12 02:46:20 +0000",
+      "tropical_fish": "2024-12-13 23:09:41 +0000",
       "apple": "2024-12-12 03:15:43 +0000",
       "potato": "2024-12-12 03:19:17 +0000",
       "cooked_cod": "2024-12-12 03:33:39 +0000",
+      "bread": "2024-12-13 23:06:33 +0000",
       "rotten_flesh": "2024-12-13 20:41:21 +0000",
       "glow_berries": "2024-12-12 02:06:59 +0000",
       "beetroot": "2024-12-12 02:05:59 +0000",
@@ -7806,21 +7808,33 @@
     },
     "done": true
   },
-  "challenges:challenges/diamond-tools": {
-    "criteria": {
-      "diamond-armor": "2024-12-13 22:33:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-13 22:32:53 +0000"
     },
     "done": true
   },
+  "challenges:challenges/diamond-tools": {
+    "criteria": {
+      "diamond-armor": "2024-12-13 22:33:45 +0000"
+    },
+    "done": true
+  },
   "challenges:challenges/pillager": {
     "criteria": {
       "sunflo": "2024-12-13 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/trades": {
+    "criteria": {
+      "trades": "2024-12-13 23:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-13 23:06:28 +0000"
     },
     "done": true
   },
