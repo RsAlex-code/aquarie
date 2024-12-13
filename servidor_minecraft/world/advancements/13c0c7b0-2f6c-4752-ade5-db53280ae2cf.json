@@ -1276,12 +1276,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2024-12-12 02:46:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -1930,12 +1924,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-12 02:49:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -2236,12 +2224,6 @@
     },
     "done": true
   },
-  "challenges:challenges/cherry": {
-    "criteria": {
-      "cherry": "2024-12-12 02:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -2305,12 +2287,6 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/stack-iron": {
-    "criteria": {
-      "iron": "2024-12-12 02:44:53 +0000"
     },
     "done": true
   },
@@ -2614,12 +2590,6 @@
     },
     "done": true
   },
-  "challenges:challenges/swamp": {
-    "criteria": {
-      "swamp": "2024-12-12 02:38:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -2719,12 +2689,6 @@
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/carrot": {
-    "criteria": {
-      "carrot": "2024-12-12 03:25:05 +0000"
     },
     "done": true
   },
@@ -2890,12 +2854,6 @@
     },
     "done": true
   },
-  "challenges:challenges/kill-cave": {
-    "criteria": {
-      "cave": "2024-12-12 03:20:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -2989,12 +2947,6 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-12 02:20:00 +0000"
     },
     "done": true
   },
@@ -3301,12 +3253,6 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -3808,12 +3754,6 @@
     },
     "done": true
   },
-  "challenges:challenges/cactus": {
-    "criteria": {
-      "cactus": "2024-12-12 02:20:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -4012,12 +3952,6 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-12 02:34:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -4108,18 +4042,6 @@
     },
     "done": true
   },
-  "challenges:challenges/miner": {
-    "criteria": {
-      "miner": "2024-12-12 02:20:00 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/ore-gen": {
-    "criteria": {
-      "ghast": "2024-12-12 02:23:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -4186,12 +4108,6 @@
     },
     "done": true
   },
-  "challenges:challenges/tower": {
-    "criteria": {
-      "tower": "2024-12-12 03:11:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -4225,12 +4141,6 @@
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/bed": {
-    "criteria": {
-      "red-bed": "2024-12-12 02:51:42 +0000"
     },
     "done": true
   },
@@ -4702,12 +4612,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-12 02:52:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -4815,16 +4719,6 @@
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-12 02:49:38 +0000",
-      "minecraft:spider": "2024-12-12 02:35:00 +0000",
-      "minecraft:creeper": "2024-12-12 03:13:32 +0000",
-      "minecraft:cave_spider": "2024-12-12 03:17:21 +0000",
-      "minecraft:zombie": "2024-12-12 02:50:06 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
@@ -5216,12 +5110,6 @@
     },
     "done": true
   },
-  "challenges:challenges/kill-skeleton": {
-    "criteria": {
-      "skeleton": "2024-12-12 03:20:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -5528,21 +5416,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2024-12-12 02:35:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/begining": {
-    "criteria": {
-      "begin": "2024-12-12 02:01:09 +0000"
     },
     "done": true
   },
@@ -5555,12 +5431,6 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/plains": {
-    "criteria": {
-      "plains": "2024-12-12 02:56:23 +0000"
     },
     "done": true
   },
@@ -5669,12 +5539,6 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-12 02:06:18 +0000"
     },
     "done": true
   },
@@ -6002,12 +5866,6 @@
     },
     "done": true
   },
-  "challenges:challenges/netherite": {
-    "criteria": {
-      "netherite": "2024-12-12 03:12:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -6230,19 +6088,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_beef": "2024-12-12 02:46:20 +0000",
-      "apple": "2024-12-12 03:15:43 +0000",
-      "potato": "2024-12-12 03:19:17 +0000",
-      "cooked_cod": "2024-12-12 03:33:39 +0000",
-      "glow_berries": "2024-12-12 02:06:59 +0000",
-      "beetroot": "2024-12-12 02:05:59 +0000",
-      "mushroom_stew": "2024-12-12 02:11:10 +0000",
-      "carrot": "2024-12-12 03:37:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -6336,12 +6181,6 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/twd": {
-    "criteria": {
-      "twd": "2024-12-12 03:03:31 +0000"
     },
     "done": true
   },
@@ -6567,12 +6406,6 @@
     },
     "done": true
   },
-  "challenges:challenges/coal": {
-    "criteria": {
-      "coal": "2024-12-12 02:03:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -6582,12 +6415,6 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-12 02:05:59 +0000"
     },
     "done": true
   },
@@ -6855,12 +6682,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-12 02:42:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -7035,12 +6856,6 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2024-12-12 03:14:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
@@ -7116,12 +6931,6 @@
   "minecraft:recipes/building_blocks/dye_brown_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "challenges:challenges/diamond": {
-    "criteria": {
-      "diam": "2024-12-12 02:42:30 +0000"
     },
     "done": true
   },
@@ -7278,12 +7087,6 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-12 03:14:30 +0000"
     },
     "done": true
   },
@@ -7794,6 +7597,204 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2024-12-12 01:56:47 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/begining": {
+    "criteria": {
+      "begin": "2024-12-12 02:01:09 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/coal": {
+    "criteria": {
+      "coal": "2024-12-12 02:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-12 02:46:20 +0000",
+      "apple": "2024-12-12 03:15:43 +0000",
+      "potato": "2024-12-12 03:19:17 +0000",
+      "cooked_cod": "2024-12-12 03:33:39 +0000",
+      "rotten_flesh": "2024-12-13 20:41:21 +0000",
+      "glow_berries": "2024-12-12 02:06:59 +0000",
+      "beetroot": "2024-12-12 02:05:59 +0000",
+      "mushroom_stew": "2024-12-12 02:11:10 +0000",
+      "carrot": "2024-12-12 03:37:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-12 02:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-12 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-12 02:20:00 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/miner": {
+    "criteria": {
+      "miner": "2024-12-12 02:20:00 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/cactus": {
+    "criteria": {
+      "cactus": "2024-12-12 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/ore-gen": {
+    "criteria": {
+      "ghast": "2024-12-12 02:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-12 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-12 02:49:38 +0000",
+      "minecraft:spider": "2024-12-12 02:35:00 +0000",
+      "minecraft:creeper": "2024-12-12 03:13:32 +0000",
+      "minecraft:cave_spider": "2024-12-12 03:17:21 +0000",
+      "minecraft:zombie": "2024-12-12 02:50:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-12 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/swamp": {
+    "criteria": {
+      "swamp": "2024-12-12 02:38:18 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/cherry": {
+    "criteria": {
+      "cherry": "2024-12-12 02:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-12 02:42:30 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/diamond": {
+    "criteria": {
+      "diam": "2024-12-12 02:42:30 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/stack-iron": {
+    "criteria": {
+      "iron": "2024-12-12 02:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-12 02:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-12 02:49:45 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/bed": {
+    "criteria": {
+      "red-bed": "2024-12-12 02:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-12 02:52:55 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/plains": {
+    "criteria": {
+      "plains": "2024-12-12 02:56:23 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/twd": {
+    "criteria": {
+      "twd": "2024-12-12 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/tower": {
+    "criteria": {
+      "tower": "2024-12-12 03:11:21 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/netherite": {
+    "criteria": {
+      "netherite": "2024-12-12 03:12:28 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-12 03:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-12 03:14:30 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/kill-cave": {
+    "criteria": {
+      "cave": "2024-12-12 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/kill-skeleton": {
+    "criteria": {
+      "skeleton": "2024-12-12 03:20:31 +0000"
+    },
+    "done": true
+  },
+  "challenges:challenges/carrot": {
+    "criteria": {
+      "carrot": "2024-12-12 03:25:05 +0000"
     },
     "done": true
   },
