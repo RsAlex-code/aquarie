@@ -1,22 +1,22 @@
-[13Dec2024 20:38:43.725] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[13Dec2024 20:38:43.731] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[13Dec2024 20:38:44.116] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Dec2024 20:38:44.188] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/aquarie/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Dec2024 20:38:44.514] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 20:38:44.518] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 20:38:44.520] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 20:38:44.522] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 20:38:44.715] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[13Dec2024 20:38:46.990] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Dec2024 20:38:47.074] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[13Dec2024 20:38:47.130] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Dec2024 20:38:47.154] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Dec2024 20:38:47.158] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Dec2024 20:38:57.451] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[13Dec2024 20:38:57.941] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Dec2024 20:38:57.947] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Dec2024 20:38:58.347] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@15eb0ae9 on thread Thread[#28,modloading-worker-0,5,main]
-[13Dec2024 20:38:58.350] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[13Dec2024 21:53:53.362] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[13Dec2024 21:53:53.367] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[13Dec2024 21:53:53.599] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Dec2024 21:53:53.661] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/aquarie/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Dec2024 21:53:54.079] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 21:53:54.082] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 21:53:54.084] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 21:53:54.085] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aquarie/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 21:53:54.261] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[13Dec2024 21:53:56.632] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Dec2024 21:53:56.690] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[13Dec2024 21:53:56.741] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Dec2024 21:53:56.770] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Dec2024 21:53:56.777] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Dec2024 21:54:07.231] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[13Dec2024 21:54:07.880] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Dec2024 21:54:07.885] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Dec2024 21:54:08.324] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@42fb8c87 on thread Thread[#28,modloading-worker-0,5,main]
+[13Dec2024 21:54:08.325] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -60,13 +60,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[13Dec2024 20:38:58.364] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[13Dec2024 20:39:00.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[13Dec2024 20:39:00.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
-[13Dec2024 20:39:00.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Dec2024 20:39:01.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[13Dec2024 20:39:01.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[13Dec2024 20:39:01.157] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Dec2024 21:54:08.329] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[13Dec2024 21:54:10.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[13Dec2024 21:54:11.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[13Dec2024 21:54:11.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Dec2024 21:54:11.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[13Dec2024 21:54:11.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[13Dec2024 21:54:11.210] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -81,10 +81,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[13Dec2024 20:39:01.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Starting version check at http://changelogs.moddinglegacy.com/scuba-gear.json
-[13Dec2024 20:39:01.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Found status: BETA Current: 1.0.6 Target: null
-[13Dec2024 20:39:01.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[13Dec2024 20:39:01.617] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Dec2024 21:54:11.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Starting version check at http://changelogs.moddinglegacy.com/scuba-gear.json
+[13Dec2024 21:54:11.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Found status: BETA Current: 1.0.6 Target: null
+[13Dec2024 21:54:11.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[13Dec2024 21:54:11.627] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -99,67 +99,79 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[13Dec2024 20:39:03.289] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Dec2024 20:39:05.246] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aquarie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
-[13Dec2024 20:39:05.248] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aquarie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
-[13Dec2024 20:39:09.289] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[13Dec2024 20:39:09.457] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement subnautica_flow:sme: Expected item to be an item, was unknown string 'subnautica_flow:deleted_mod_element'
-[13Dec2024 20:39:09.545] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement subnautica_flow:new_gen_of_sea_monkey: Task Advancement{parentId=subnautica_flow:sme, display=net.minecraft.advancements.DisplayInfo@657d0149, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2495007}, criteria={new_gen_of_sea_monkey_0=net.minecraft.advancements.Criterion@437ff0b1}, requirements=[[new_gen_of_sea_monkey_0]], sends_telemetry_event=false}
-[13Dec2024 20:39:09.549] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1473 advancements
-[13Dec2024 20:39:10.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[13Dec2024 20:39:10.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Dec2024 20:39:10.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Dec2024 20:39:10.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Dec2024 20:39:11.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Dec2024 20:39:11.064] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Dec2024 20:39:11.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Dec2024 20:39:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Dec2024 20:39:19.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.444] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.449] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.450] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.455] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.465] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:19.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:20.254] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:20.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 20:39:21.816] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9575 ms
-[13Dec2024 20:39:21.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.603s)! For help, type "help"
-[13Dec2024 20:39:21.847] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Dec2024 20:39:25.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[13Dec2024 20:40:34.945] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player alexwhis is 13c0c7b0-2f6c-4752-ade5-db53280ae2cf
-[13Dec2024 20:40:36.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexwhis[/127.216.116.42:35231] logged in with entity id 180 at (-2.7249888995086535, 63.0, 13.58807739667563)
-[13Dec2024 20:40:36.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexwhis joined the game
-[13Dec2024 20:41:38.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:41:38.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:41:38.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:41:46.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:41:46.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:41:46.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:42:27.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:42:27.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:42:27.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:42:27.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:43:06.809] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:43:06.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:43:06.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:43:33.259] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:44:11.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:44:11.558] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:44:11.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:45:33.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:46:03.709] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:46:03.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:46:03.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:46:03.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
-[13Dec2024 20:46:35.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexwhis lost connection: Disconnected
-[13Dec2024 20:46:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexwhis left the game
+[13Dec2024 21:54:13.398] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Dec2024 21:54:14.885] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aquarie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
+[13Dec2024 21:54:14.886] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aquarie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
+[13Dec2024 21:54:19.238] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[13Dec2024 21:54:19.371] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement subnautica_flow:sme: Expected item to be an item, was unknown string 'subnautica_flow:deleted_mod_element'
+[13Dec2024 21:54:19.452] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement subnautica_flow:new_gen_of_sea_monkey: Task Advancement{parentId=subnautica_flow:sme, display=net.minecraft.advancements.DisplayInfo@6f700e33, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@33083cad}, criteria={new_gen_of_sea_monkey_0=net.minecraft.advancements.Criterion@edd4b56}, requirements=[[new_gen_of_sea_monkey_0]], sends_telemetry_event=false}
+[13Dec2024 21:54:19.453] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1473 advancements
+[13Dec2024 21:54:20.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Dec2024 21:54:20.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Dec2024 21:54:20.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Dec2024 21:54:20.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Dec2024 21:54:20.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Dec2024 21:54:20.715] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Dec2024 21:54:20.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Dec2024 21:54:22.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Dec2024 21:54:28.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.388] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.390] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.393] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.395] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.397] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.402] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:28.743] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:29.242] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:29.775] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 21:54:30.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[13Dec2024 21:54:31.325] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9084 ms
+[13Dec2024 21:54:31.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.494s)! For help, type "help"
+[13Dec2024 21:54:31.368] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Dec2024 21:54:54.880] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ItzPayker is ee9cdee6-f5b4-4e38-a484-9111c635687e
+[13Dec2024 21:54:56.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItzPayker[/127.183.143.12:39289] logged in with entity id 178 at (4.0668125322803315, 59.0, 15.950498632189108)
+[13Dec2024 21:54:56.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzPayker joined the game
+[13Dec2024 21:55:04.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:00.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:00.684] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:00.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:41.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:41.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:41.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:48.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:50.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:56:50.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:57:23.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:57:23.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:57:32.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:57:49.463] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player alexwhis is 13c0c7b0-2f6c-4752-ade5-db53280ae2cf
+[13Dec2024 21:57:51.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexwhis[/127.216.116.42:37163] logged in with entity id 541 at (-0.07516679306885284, 63.0, 14.492324527486291)
+[13Dec2024 21:57:51.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexwhis joined the game
+[13Dec2024 21:58:14.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:58:18.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:58:55.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:58:55.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:59:47.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:59:48.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:59:48.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:59:48.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 21:59:48.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:00:18.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:00:27.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:00:27.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:00:27.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:00:51.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:00:51.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:00:51.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:01:36.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:01:36.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:01:36.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:03:10.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:03:10.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[13Dec2024 22:03:10.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
