@@ -7793,6 +7793,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-13 22:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
       "obtain_sniffer_egg": "2024-12-13 22:04:24 +0000"
